@@ -1,0 +1,4 @@
+Excerpt from dmesg output:
+
+	[ 1137.047711] Hello, World!
+	[ 1154.399201] Goodbye, World
